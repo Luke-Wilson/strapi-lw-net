@@ -1,2 +1,2 @@
 #!/bin/bash
-ssh -i ~/.ssh/strapi.pem ubuntu@18.144.90.162
+ssh -i ~/.ssh/strapi.pem ubuntu@3.101.25.142
